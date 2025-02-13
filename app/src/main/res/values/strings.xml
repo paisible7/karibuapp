@@ -4,51 +4,62 @@
     <string name="pays1">Allemagne</string>
     <string name="capital1">Berlin</string>
     <string name="code1">+49</string>
+    <string name="countryDescription1">L\'allemagne est connu pour son mur de berlin</string>
 
     <string name="pays2">Cameroun</string>
     <string name="capital2">Yaoundé</string>
     <string name="code2">+237</string>
+    <string name="countryDescription2">Le Cameroun est un pays avec une culture riche.</string>
 
     <string name="pays3">Espagne</string>
     <string name="capital3">Madrid</string>
     <string name="code3">+34</string>
-
+    <string name="countryDescription3">L\'Espagne est un pays avec une culture riche.</string>
 
     <string name="pays4">Italie</string>
     <string name="capital4">Rome</string>
     <string name="code4">+39</string>
+    <string name="countryDescription4">L\'Italie est un pays avec une culture riche.</string>
 
     <string name="pays5">Maroc</string>
     <string name="capital5">Rabat</string>
     <string name="code5">+212</string>
+    <string name="countryDescription5">Le maroc est un pays avec une culture riche.</string>
 
     <string name="pays6">Nigeria</string>
     <string name="capital6">Abuja</string>
     <string name="code6">+234</string>
+    <string name="countryDescription6">Le nigeria est un pays avec une culture riche.</string>
 
     <string name="pays7">Republique Democratique du Congo</string>
     <string name="capital7">Kinshasa</string>
     <string name="code7">+243</string>
+    <string name="countryDescription7">La République Démocratique du Congo est un grand pays</string>
 
     <string name="pays8">Senegal</string>
     <string name="capital8">Dakar</string>
     <string name="code8">+221</string>
+    <string name="countryDescription8">Le Sénégal est un pays avec une culture riche.</string>
 
     <string name="pays9">Togo</string>
     <string name="capital9">Lomé</string>
     <string name="code9">+228</string>
+    <string name="countryDescription9">Le Togo est un pays avec une culture riche.</string>
 
     <string name="pays10">Tunisie</string>
     <string name="capital10">Tunis</string>
     <string name="code10">+216</string>
+    <string name="countryDescription10">La Tunisie est un pays avec une culture arabe.</string>
 
     <string name="pays11">France</string>
     <string name="capital11">Paris</string>
     <string name="code11">+33</string>
+    <string name="countryDescription11">La France est un pays avec une culture riche.</string>
 
     <string name="pays12">Kenya</string>
     <string name="capital12">Nairobi</string>
     <string name="code12">+254</string>
+    <string name="countryDescription12">Le Kenya est un pays avec une culture riche.</string>
 
     
     
